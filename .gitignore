@@ -1,6 +1,10 @@
+# Project Details
 data/
 models/
 logs/
 .venv
 .git
 .env
+
+# Caches
+__pycache__/
